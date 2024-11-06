@@ -1,7 +1,7 @@
 # Kubernetes Labs
 ![Open Source License](https://img.shields.io/badge/License-MIT-blue)
-![Kubernetes](https://https://img.shields.io/badge/Kubernetes-blue)
-![Containerization](https://img.shields.io/badge/Containers-blue)
+![Kubernetes](https://img.shields.io/badge/DevSec-Kubernetes-blue)
+![Containerization](https://img.shields.io/badge/DevSec-Containers-blue)
 
 
 This repository documents my progress through "Kubernetes the Hard Way" by Kelsey Hightower. I'll be setting up a Kubernetes cluster manually without any automated tools (e.g., kubeadm). The goal is to understand how Kubernetes works under the hood. 

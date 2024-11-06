@@ -9,7 +9,8 @@ Before starting the tutorial, I set up the following environment:
     ```bash
     vagrant ssh $hostname
     ```
-- After ensuring ssh was configured I made simple ping requests between hosts:  ```bash
+- After ensuring ssh was configured I made simple ping requests between hosts:  
+```bash
 ping $ipaddr
 ```
 
