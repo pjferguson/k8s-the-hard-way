@@ -24,8 +24,7 @@ Before starting the tutorial, I set up the following environment:
     ```bash 
     while read IP FQDN HOST SUBNET; do  ssh-copy-id root@${IP} done < machines.txt
     ```
-- In this section I also assigned hostnames to machines, and configured DNS entries in ```bash /etc/hosts
-``` with these updated hostnames. 
+- In this section, I assigned hostnames to the machines and configured the DNS entries in /etc/hosts with the updated hostnames.
 
 ### Troubleshooting
 - My "server" machine would quit the sshd service with an exit code of 255. Which after doing research I now know means that ssh has failed after being executed by another process. This happened right after configuring ssh on the server.
