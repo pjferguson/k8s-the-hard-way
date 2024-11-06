@@ -1,7 +1,7 @@
 # Kubernetes Labs
 ![Open Source License](https://img.shields.io/badge/License-MIT-blue)
-![GitHub Repo stars](https://img.shields.io/github/stars/pjferguson/k8s-the-hard-way?style=social)
-
+![Kubernetes](https://https://img.shields.io/badge/Kubernetes-blue)
+![Containerization](https://img.shields.io/badge/Containers-blue)
 
 
 This repository documents my progress through "Kubernetes the Hard Way" by Kelsey Hightower. I'll be setting up a Kubernetes cluster manually without any automated tools (e.g., kubeadm). The goal is to understand how Kubernetes works under the hood. 
@@ -17,4 +17,7 @@ This repository documents my progress through "Kubernetes the Hard Way" by Kelse
 
 
 ### Summary
-- Work in progress. Will be updated soon. 
+- Work in progress. Will be updated soon.
+
+### License
+- This project is licensed under the MIT license. 
