@@ -13,11 +13,11 @@ This repository documents my progress through "Kubernetes the Hard Way" by Kelse
 
 
 ### Current Status
-- I am currently working through configuring the CA for nodes along with Generating TLS certificates
+- I am currently working through configuring the CA for nodes along with Generating TLS certificates. 
 
 
 ### Summary
-- Work in progress. Will be updated soon.
+🚧 **This is a work in progress. Please check back later for updates.**
 
 ### License
 - This project is licensed under the MIT license. 
