@@ -5,8 +5,11 @@ Before starting the tutorial, I set up the following environment:
 - Configured static IP addresses and network connectivity in the Vagrantfile as well. 
 
 ## Verification
-- To verify ssh capabilties I ran ```vagrant ssh $hostname```
-- After ensuring ssh was configured I made simple ping requests between hosts. ```ping $ipaddr```.
+- To verify ssh capabilties I ran:
+    ```bash
+    vagrant ssh $hostname
+    ```
+- After ensuring ssh was configured I made simple ping requests between hosts:  ```ping $ipaddr```
 
 ### Lab 1 
 - In this lab I generated and distributed ssh keys from the jumpbox. 
